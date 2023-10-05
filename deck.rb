@@ -16,7 +16,7 @@ module StreamDeck
         desc 'Print version'
 
         def call(*)
-          puts '1.0.0'
+          puts '0.0.1'
         end
       end
 
